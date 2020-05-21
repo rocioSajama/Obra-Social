@@ -1,0 +1,25 @@
+#titulo-form{
+    background-image: url(./../../../assets/imagenes/Google_play_abstract_gradient-Vector_HD_Wallpaper_1366x768.jpg);
+    background-position: center;
+    background-size:cover;
+    color: transparent;
+    font-family: 'Sofia', cursive;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -o-background-clip: text;
+    letter-spacing: 2px;
+    font-size: 3.5em;
+    margin: 0;
+}
+form{
+    background-color: rgba(0, 0, 0, 0.445);
+    color:rgb(243, 243, 171);
+    font-weight: bolder;
+}
+
+#fondoReg{
+    background-image: url(./../../../assets/imagenes/cesped-flora-flores-fondo-de-pantalla-hd-268261.jpg);
+    background-attachment: fixed;
+    background-size:cover;
+    margin: 0;
+}

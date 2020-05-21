@@ -1,0 +1,19 @@
+h1,h2,h3{
+    font-family: 'Sofia', cursive;
+    font-weight: bold;
+}
+.noticias p{
+    font-family: 'Tenor Sans', sans-serif;
+}
+.paginas a{
+    font-family: 'Tenor Sans', sans-serif;
+}
+.noticias h5{
+    font-family: 'Tenor Sans', sans-serif;
+    font-weight: bold;
+    font-size: medium;
+    color: black;
+}
+#fondo{
+    background-image: url(./../../../assets/imagenes/leaves.png);
+}
