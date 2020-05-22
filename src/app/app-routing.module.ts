@@ -8,7 +8,8 @@ import { GaleriaComponent } from './components/galeria/galeria.component';
 const routes: Routes = [
   {path:'index' , component: HomeComponent },
   {path:'registro' , component: RegistroComponent},
-  {path:'galeria' , component: GaleriaComponent}
+  {path:'galeria' , component: GaleriaComponent},
+  { path:'**' , pathMatch:'full' , redirectTo:'index' },
 ];
 
 @NgModule({
